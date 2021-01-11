@@ -4,10 +4,10 @@ class App extends Component {
   render() {
     return (
       <div>
-        <ul>swamy</ul>
-        <li>chandana</li>
-        <li>harika</li>
-        <li>sowji</li>
+        <ul>TIM</ul>
+        <li>DOG</li>
+        <li>CAT</li>
+        <li>RAT</li>
       </div>
     );
   }
