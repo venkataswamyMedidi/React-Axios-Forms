@@ -13,7 +13,6 @@ export default class PersonList extends React.Component {
       this.setState({ persons });
     });
   }
-
   render() {
     return (
       <ul>
